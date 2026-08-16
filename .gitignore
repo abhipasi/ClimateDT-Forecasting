@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Large climate datasets
+data/*.csv
+data/*.nc
+data/*.tif
+data/*.zip
+data/*.parquet
+
+# Raw climate datasets
+CHIRPS*.csv
+ERA5*.csv
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+# Manuscript and review material
+AI and Plagiarism Report/
+References/
+*.pdf
+*.docx
+*.docm
+
+# Large generated model outputs
+results/*_predictions.csv
+results/*.keras
+
+# Legacy and duplicate figures
+figures/Architecture Diagram_page-0001.jpg
+figures/Architecture.jpg
+figures/ablation_rainfall.png
+figures/model_rainfall_rmse.png
+figures/model_temperature_rmse.png
+figures/rainfall_actual_vs_predicted.png
+figures/temperature_actual_vs_predicted.png
+figures/yearwise_rainfall_rmse.png
+figures/yearwise_temperature_rmse.png
+data/boundary/Maharashtra_Boundary.fix

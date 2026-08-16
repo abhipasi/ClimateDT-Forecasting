@@ -1,0 +1,15 @@
+feature,importance
+temperature_c,0.6102918
+temp_roll7,0.35638288
+temp_lag1,0.0048026526
+cos_doy,0.0041144243
+sin_doy,0.003799261
+rainfall_mm,0.0037125885
+temp_lag3,0.0030608373
+rain_lag1,0.0027108241
+longitude,0.002446175
+latitude,0.0020216291
+temp_lag7,0.0019277906
+rain_roll7,0.0017721802
+rain_lag3,0.0015896414
+rain_lag7,0.0013672604
